@@ -8,12 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* react_native_fit_meeting_explanationsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* react_native_fit_meeting_explanationsTests.m */; };
-		0C80B921A6F3F58F76C31292 /* libPods-react_native_fit_meeting_explanations.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-react_native_fit_meeting_explanations.a */; };
+		06FA11C7ED32984204BAD661 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EB7FEE06A258E60C50ECD053 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a */; };
+		1849198D82094A2C86C49A28 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8146FF38CD1D44B9A8EDB804 /* Roboto-ThinItalic.ttf */; };
+		3A56B32903EA462C8738CF72 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A4738F2FF784736B0498ACB /* Roboto-Bold.ttf */; };
+		5A0D29427D84B840A57CDCB7 /* libPods-react_native_fit_meeting_explanations.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 993C464FE85EDAB95560F778 /* libPods-react_native_fit_meeting_explanations.a */; };
+		5E6DCBDE23DE48D789854489 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6291213BCBE4125911AA4ED /* Roboto-BlackItalic.ttf */; };
+		60C6939581624434AA01A4B6 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DDC59440BD454DCABE26D831 /* Roboto-Light.ttf */; };
+		75D04F43B251482895782800 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 85B21A436BF0481E9608155F /* LICENSE.txt */; };
+		782EDB370E814B77ADCECB15 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7523F7FF1ED4CC2AEEA527D /* Roboto-Medium.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		86E7EF766A93476A9132F809 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3FEA4EDC05748CE8610D27D /* Roboto-Italic.ttf */; };
+		B0693E75AE0B4B7180B13384 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DCAFB6186E9C45A8917CB258 /* Roboto-Thin.ttf */; };
+		CEBFBBED7FA746AA9357BAF9 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9625C9F772B428280166479 /* Roboto-MediumItalic.ttf */; };
+		D67DA39278BB40DABCB5D5B7 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 468FD5911D0E447AAAA0ECD6 /* Roboto-Black.ttf */; };
+		E73F67DB2CC04E049CA9A10C /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EF4B408A08D4214A5C1B5C0 /* Roboto-BoldItalic.ttf */; };
+		ED10911E470849038698920A /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBF67A89E1B74E1BB0AF6474 /* Roboto-LightItalic.ttf */; };
+		F0A036A7B1574134A9C40A7E /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9C4B906FE2D4047B2D7A0B0 /* Roboto-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,13 +49,26 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = react_native_fit_meeting_explanations/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = react_native_fit_meeting_explanations/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = react_native_fit_meeting_explanations/main.m; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B4392A12AC88292D35C810B /* Pods-react_native_fit_meeting_explanations.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations.debug.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-react_native_fit_meeting_explanations.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations.release.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations.release.xcconfig"; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-react_native_fit_meeting_explanations.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-react_native_fit_meeting_explanations.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1515FD1CAF4094F99D07A628 /* Pods-react_native_fit_meeting_explanations.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations.release.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations.release.xcconfig"; sourceTree = "<group>"; };
+		1A122B320C35EF54C56432D1 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		468FD5911D0E447AAAA0ECD6 /* Roboto-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Black.ttf"; path = "../assets/fonts/Roboto/Roboto-Black.ttf"; sourceTree = "<group>"; };
+		4EF4B408A08D4214A5C1B5C0 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BoldItalic.ttf"; path = "../assets/fonts/Roboto/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
+		8146FF38CD1D44B9A8EDB804 /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ThinItalic.ttf"; path = "../assets/fonts/Roboto/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = react_native_fit_meeting_explanations/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig"; sourceTree = "<group>"; };
+		85B21A436BF0481E9608155F /* LICENSE.txt */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = LICENSE.txt; path = ../assets/fonts/Roboto/LICENSE.txt; sourceTree = "<group>"; };
+		8A4738F2FF784736B0498ACB /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../assets/fonts/Roboto/Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		993C464FE85EDAB95560F778 /* libPods-react_native_fit_meeting_explanations.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-react_native_fit_meeting_explanations.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9625C9F772B428280166479 /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../assets/fonts/Roboto/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
+		AF98B952CB3F52F89DEC4FAE /* Pods-react_native_fit_meeting_explanations.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations.debug.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations.debug.xcconfig"; sourceTree = "<group>"; };
+		C7523F7FF1ED4CC2AEEA527D /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto/Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		C9C4B906FE2D4047B2D7A0B0 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		CBF67A89E1B74E1BB0AF6474 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-LightItalic.ttf"; path = "../assets/fonts/Roboto/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		D460D479A4687B25593B0028 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig"; path = "Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig"; sourceTree = "<group>"; };
+		DCAFB6186E9C45A8917CB258 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Thin.ttf"; path = "../assets/fonts/Roboto/Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		DDC59440BD454DCABE26D831 /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../assets/fonts/Roboto/Roboto-Light.ttf"; sourceTree = "<group>"; };
+		E3FEA4EDC05748CE8610D27D /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../assets/fonts/Roboto/Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		E6291213BCBE4125911AA4ED /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BlackItalic.ttf"; path = "../assets/fonts/Roboto/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		EB7FEE06A258E60C50ECD053 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -51,7 +77,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a in Frameworks */,
+				06FA11C7ED32984204BAD661 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-react_native_fit_meeting_explanations.a in Frameworks */,
+				5A0D29427D84B840A57CDCB7 /* libPods-react_native_fit_meeting_explanations.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +126,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-react_native_fit_meeting_explanations.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a */,
+				993C464FE85EDAB95560F778 /* libPods-react_native_fit_meeting_explanations.a */,
+				EB7FEE06A258E60C50ECD053 /* libPods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -122,6 +148,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				DABD2C760EE84694B22E22A9 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -140,12 +167,32 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-react_native_fit_meeting_explanations.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-react_native_fit_meeting_explanations.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig */,
+				AF98B952CB3F52F89DEC4FAE /* Pods-react_native_fit_meeting_explanations.debug.xcconfig */,
+				1515FD1CAF4094F99D07A628 /* Pods-react_native_fit_meeting_explanations.release.xcconfig */,
+				1A122B320C35EF54C56432D1 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig */,
+				D460D479A4687B25593B0028 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		DABD2C760EE84694B22E22A9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				468FD5911D0E447AAAA0ECD6 /* Roboto-Black.ttf */,
+				E6291213BCBE4125911AA4ED /* Roboto-BlackItalic.ttf */,
+				8A4738F2FF784736B0498ACB /* Roboto-Bold.ttf */,
+				4EF4B408A08D4214A5C1B5C0 /* Roboto-BoldItalic.ttf */,
+				E3FEA4EDC05748CE8610D27D /* Roboto-Italic.ttf */,
+				DDC59440BD454DCABE26D831 /* Roboto-Light.ttf */,
+				CBF67A89E1B74E1BB0AF6474 /* Roboto-LightItalic.ttf */,
+				C7523F7FF1ED4CC2AEEA527D /* Roboto-Medium.ttf */,
+				A9625C9F772B428280166479 /* Roboto-MediumItalic.ttf */,
+				C9C4B906FE2D4047B2D7A0B0 /* Roboto-Regular.ttf */,
+				DCAFB6186E9C45A8917CB258 /* Roboto-Thin.ttf */,
+				8146FF38CD1D44B9A8EDB804 /* Roboto-ThinItalic.ttf */,
+				85B21A436BF0481E9608155F /* LICENSE.txt */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,12 +202,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "react_native_fit_meeting_explanationsTests" */;
 			buildPhases = (
-				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
+				0CDA8FCD1FC4F25ADF6148EF /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
-				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
+				F365ADFD2C8395DF9A383412 /* [CP] Embed Pods Frameworks */,
+				32F644F24F65596A8C199B64 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -176,13 +223,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "react_native_fit_meeting_explanations" */;
 			buildPhases = (
-				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				E96B6FBBB91485EF00F094E9 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				C64581FD21436338575F1255 /* [CP] Embed Pods Frameworks */,
+				F0165110AF6FF20A9614DC9D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -199,7 +246,8 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1210;
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1530;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
@@ -243,6 +291,19 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D67DA39278BB40DABCB5D5B7 /* Roboto-Black.ttf in Resources */,
+				5E6DCBDE23DE48D789854489 /* Roboto-BlackItalic.ttf in Resources */,
+				3A56B32903EA462C8738CF72 /* Roboto-Bold.ttf in Resources */,
+				E73F67DB2CC04E049CA9A10C /* Roboto-BoldItalic.ttf in Resources */,
+				86E7EF766A93476A9132F809 /* Roboto-Italic.ttf in Resources */,
+				60C6939581624434AA01A4B6 /* Roboto-Light.ttf in Resources */,
+				ED10911E470849038698920A /* Roboto-LightItalic.ttf in Resources */,
+				782EDB370E814B77ADCECB15 /* Roboto-Medium.ttf in Resources */,
+				CEBFBBED7FA746AA9357BAF9 /* Roboto-MediumItalic.ttf in Resources */,
+				F0A036A7B1574134A9C40A7E /* Roboto-Regular.ttf in Resources */,
+				B0693E75AE0B4B7180B13384 /* Roboto-Thin.ttf in Resources */,
+				1849198D82094A2C86C49A28 /* Roboto-ThinItalic.ttf in Resources */,
+				75D04F43B251482895782800 /* LICENSE.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,24 +326,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
+		0CDA8FCD1FC4F25ADF6148EF /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -304,7 +348,41 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+		32F644F24F65596A8C199B64 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C64581FD21436338575F1255 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E96B6FBBB91485EF00F094E9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -326,24 +404,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
+		F0165110AF6FF20A9614DC9D /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -360,21 +421,21 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations/Pods-react_native_fit_meeting_explanations-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
+		F365ADFD2C8395DF9A383412 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Copy Pods Resources";
+			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests/Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -410,7 +471,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig */;
+			baseConfigurationReference = 1A122B320C35EF54C56432D1 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -437,7 +498,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig */;
+			baseConfigurationReference = D460D479A4687B25593B0028 /* Pods-react_native_fit_meeting_explanations-react_native_fit_meeting_explanationsTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -461,12 +522,13 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-react_native_fit_meeting_explanations.debug.xcconfig */;
+			baseConfigurationReference = AF98B952CB3F52F89DEC4FAE /* Pods-react_native_fit_meeting_explanations.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = react_native_fit_meeting_explanations/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -488,11 +550,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-react_native_fit_meeting_explanations.release.xcconfig */;
+			baseConfigurationReference = 1515FD1CAF4094F99D07A628 /* Pods-react_native_fit_meeting_explanations.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = react_native_fit_meeting_explanations/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -544,6 +607,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -623,6 +687,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
